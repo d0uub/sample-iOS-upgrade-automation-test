@@ -1,0 +1,11 @@
+@startuml
+title iPhone X 12.1 - Fri Aug 30 2019 16:31:50 GMT+0800 (Hong Kong Standard Time)
+(*) -> "<img:iPhone X-12.1-1-resized.png>" as 1
+ -> "<img:iPhone X-12.1-2-resized.png>" as 2
+ -> "<img:iPhone X-12.1-3-resized.png>" as 3
+ -> "<img:iPhone X-12.1-4-resized.png>" as 4
+ -> "<img:iPhone X-12.1-5-resized.png>" as 5
+3 -down-> "<img:iPhone X-12.1-6-resized.png>" as 6
+1 -up-> "<img:iPhone X-12.1-7-resized.png>" as 7
+ -> "<img:iPhone X-12.1-8-resized.png>" as 8
+@enduml
